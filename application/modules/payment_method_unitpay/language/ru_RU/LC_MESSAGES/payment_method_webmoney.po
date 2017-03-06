@@ -1,0 +1,11 @@
+﻿msgid "unitpay"
+msgstr "Unitpay"
+
+msgid "PUBLIC KEY"
+msgstr "PUBLIC KEY"
+
+msgid "SECRET KEY"
+msgstr "SECRET KEY"
+
+msgid "Merchant settings"
+msgstr "Настройки"
