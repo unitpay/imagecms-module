@@ -220,7 +220,7 @@ class payment_method_unitpay extends MY_Controller
         } else {
             $status_sign = false;
         }
-        $status_sign = true;
+//        $status_sign = true;
         if ($status_sign) {
             switch ($method) {
                 case 'check':
